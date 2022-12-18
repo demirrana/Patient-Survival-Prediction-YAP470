@@ -7,4 +7,4 @@ https://www.kaggle.com/datasets/mitishaagarwal/patient
 
 
 Here is the website of the deployed model with Streamlit: 
-https://demirrana-patient-survival-prediction-yap470-app-23chz6.streamlit.app/
+https://meric2-patient-survival-prediction-yap470-app-rmgogf.streamlit.app/
